@@ -30,7 +30,7 @@ const Login = () => {
         <div className="bg-card border border-border rounded-xl p-8 shadow-elevated">
           <div className="text-center mb-6">
             <LogIn size={32} className="mx-auto text-primary mb-2" />
-            <h1 className="font-heading text-2xl font-bold">Welcome Back</h1>
+            <h1 className="font-heading text-2xl font-bold">Welcome Back. </h1>
             <p className="text-sm text-muted-foreground font-body mt-1">Sign in to your account</p>
           </div>
 
